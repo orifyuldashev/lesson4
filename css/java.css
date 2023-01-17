@@ -1,0 +1,43 @@
+#title,
+.a
+ {
+  font-size: 35px;
+  background-color: rgb(40, 42, 53);
+  word-spacing: 35px;
+  line-height: 80px;
+  text-align: center;
+}
+.h-1 {
+  font-size: 40px;
+}
+#title a {
+  color: white;
+  text-decoration: none;
+}
+.btn-2{
+    line-height: 45px;
+    color: white;
+    background-color: rgba(31, 31, 31, 0.975);
+    font-size: 25px;
+    width: auto;
+    height: auto;
+  }
+.btn {
+  line-height: 45px;
+  color: white;
+  background-color: rgba(111, 178, 48, 0.975);
+  font-size: 25px;
+  width: auto;
+  height: auto;
+}
+.text {
+  background-color: rgba(111, 178, 48, 0.249);
+}
+.txt {
+  line-height: 60px;
+}
+.esy,
+.htm {
+  text-indent: 30px;
+  line-height: 30px;
+}
